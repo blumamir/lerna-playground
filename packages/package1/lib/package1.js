@@ -17,4 +17,5 @@ function package1() {
     // with nir2
     // with nir3
     // with nir4
+    // new npm token
 }
