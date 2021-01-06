@@ -1,0 +1,11 @@
+{
+  "name": "lerna-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:blumamir/lerna-playground.git",
+  "author": "Amir Blum <amir@aspecto.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
