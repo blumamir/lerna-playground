@@ -39,7 +39,7 @@ jobs:
           yarn --cwd packages/${{ github.event.inputs.packageName }} version --${{ github.event.inputs.semanticVersion }} --no-commit-hooks
 
       - name: Publish to NPM
-        run: yarn --cwd packages/${{ github.event.inputs.packageName }} publish
+        run: yarn publish:ci
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 

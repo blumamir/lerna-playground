@@ -6,6 +6,9 @@
   "author": "Amir Blum <amir@aspecto.io>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "publish:ci": "lerna publish"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
