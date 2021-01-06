@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# this file is created in Publish workflow on github
+# make sure it is not committed to git since it has the token
+.npmrc
