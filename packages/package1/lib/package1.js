@@ -14,4 +14,5 @@ function package1() {
     // some change
     // some other change
     // with nir
+    // with nir2
 }
