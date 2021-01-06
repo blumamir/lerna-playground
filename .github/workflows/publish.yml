@@ -33,7 +33,7 @@ jobs:
           git config --global user.email 'aspecto-system@users.noreply.github.com'
 
       - name: Install node modules
-        run: yarn --cwd packages/${{ github.event.inputs.packageName }}
+        run: yarn
 
       # - name: Bump Version
       #   run: |
@@ -53,6 +53,7 @@ jobs:
         run: yarn publish:ci ${{ github.event.inputs.semanticVersion }}
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       # - name: Push Changes
       #   run: |

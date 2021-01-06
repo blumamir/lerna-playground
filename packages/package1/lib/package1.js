@@ -16,4 +16,5 @@ function package1() {
     // with nir
     // with nir2
     // with nir3
+    // with nir4
 }
