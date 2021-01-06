@@ -10,4 +10,5 @@ function package1() {
     // change in ci
     // another change for ci
     // another change for ci
+    // change in version 1.0.7
 }
