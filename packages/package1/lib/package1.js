@@ -8,4 +8,5 @@ function package1() {
     // change to package 1 in addition to common dep
     // change to package 1 only - test in CI
     // change in ci
+    // another change for ci
 }
