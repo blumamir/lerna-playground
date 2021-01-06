@@ -13,4 +13,5 @@ function package1() {
     // change in version 1.0.7
     // some change
     // some other change
+    // with nir
 }
