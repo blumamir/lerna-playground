@@ -12,4 +12,5 @@ function package1() {
     // another change for ci
     // change in version 1.0.7
     // some change
+    // some other change
 }
