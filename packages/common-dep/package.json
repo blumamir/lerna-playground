@@ -13,6 +13,7 @@
   "files": [
     "lib"
   ],
+  "private": false,
   "publishConfig": {
     "registry": "https://registry.yarnpkg.com/"
   },
@@ -25,5 +26,6 @@
   },
   "bugs": {
     "url": "https://github.com/blumamir/lerna-playground/issues"
-  }
+  },
+  "gitHead": "1dcc66dc82c820662479cffe6ac9b84b1e612818"
 }
