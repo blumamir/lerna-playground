@@ -7,4 +7,5 @@ function package1() {
     // bump patch version
     // change to package 1 in addition to common dep
     // change to package 1 only - test in CI
+    // change in ci
 }
