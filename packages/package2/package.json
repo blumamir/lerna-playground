@@ -1,6 +1,6 @@
 {
   "name": "@mzahor-test-org/package2",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "keywords": [],
   "author": "Amir Blum <amir@aspecto.io>",
   "license": "ISC",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/blumamir/lerna-playground#readme",
   "dependencies": {
-    "@mzahor-test-org/common-dep": "^1.0.8"
+    "@mzahor-test-org/common-dep": "^1.0.9"
   },
   "gitHead": "1dcc66dc82c820662479cffe6ac9b84b1e612818"
 }
