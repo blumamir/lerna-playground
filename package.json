@@ -1,6 +1,6 @@
 {
   "name": "lerna-playground",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "git@github.com:blumamir/lerna-playground.git",
   "author": "Amir Blum <amir@aspecto.io>",
