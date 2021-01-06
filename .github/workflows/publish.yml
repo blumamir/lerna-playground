@@ -43,9 +43,9 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Push Changes
-        run: |
-          git add .
-          git commit --amend --no-edit
-          git push
+      # - name: Push Changes
+      #   run: |
+      #     git add .
+      #     git commit --amend --no-edit
+      #     git push
 
